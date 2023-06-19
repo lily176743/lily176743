@@ -5,11 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Django and React
+- 🌱 I’m currently learning ... Python
+- 👯 I’m looking to collaborate on ... fjiejf
+- 🤔 I’m looking for help with ... fkewijf
+- 💬 Ask me about ... ewfwef
+- 📫 How to reach me: ... defwf
+- 😄 Pronouns: ...fwef 
+- ⚡ Fun fact: ... ewfwfwfwefwe
+- sjfwejgejopgrejg
+- ergreg
+- er
+- hrehpr
+- h
+- rthj
+- rt
+- hjrpj
+- 4rtpj
