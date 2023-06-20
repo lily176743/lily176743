@@ -19,6 +19,10 @@
   ✅ PHP/Shopify/WordPress
   
   ✅ Python/Flask/Django
+ 
+  ✅ OpenCV/Keras/PyTorch/TensorFlow
+  
+  ✅ Pandas/NumPy/SciPy/Database
   
   ✅ TypeScript/Webpack
   
